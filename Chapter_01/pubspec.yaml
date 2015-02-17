@@ -1,6 +1,5 @@
-name: ng2test
+name: tutorial
 version: 0.0.2
 dependencies:
   angular2: ">=2.0.0-alpha.6 <3.0.0"
   browser: any
-

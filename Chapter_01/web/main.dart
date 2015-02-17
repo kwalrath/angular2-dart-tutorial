@@ -1,4 +1,4 @@
-import 'package:angular2/angular2.dart'; // will become angular[2]
+import 'package:angular2/angular2.dart';
 
 // for demos. remove for production, which should use a transformer.
 import 'package:angular2/src/reflection/reflection.dart' show reflector;

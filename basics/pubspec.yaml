@@ -1,9 +1,0 @@
-name: ng2test
-version: 0.0.1
-dependencies:
-  core:
-    path: '/Users/kathyw/GITHUB/angular/dist/dart/core'
-  reflection:
-    path: '/Users/kathyw/GITHUB/angular/dist/dart/reflection'
-  browser: any
-
